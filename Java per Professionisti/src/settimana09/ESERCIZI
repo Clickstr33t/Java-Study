@@ -1,0 +1,28 @@
+Esercizi collections
+[FACILE]
+
+Scrivere un programma che:
+
+Chiede all'utente di inserire N numeri interi e li inserisce in una struttura ArrayList di valori interi;
+Chiede all'utente di inserire un valore intero K e rimuove tutte le occorrenze di K dalla struttura dati;
+Stampa tutti i valori presente nella struttura al termine della computazione.
+[FACILE]
+
+Scrivere un programma che, data una mappa M di tipo TreeMap<String, Integer> e un intero I, rende la prima stringa S che è chiave di I oppure stampi un messaggio di errore se il valore I non è presente in M
+
+[MEDIO]
+
+Scrivere un programma che abbia i seguenti metodi:
+
+un metodo che dato un array di stringhe renda un ArrayList di stringhe contenete i valori dell'array.
+un metodo che dato un array di stringhe renda un HashSet di stringhe contenete i valori dell'array.
+un metodo che dato un array di stringhe renda una Collection di stringhe contenente i valori dell'array.
+Testare il programma sfruttando l'array di parametri in ingresso args
+
+[MEDIO]
+
+Scrivere un programma che, data una mappa M di tipo TreeMap<String, Integer> e una stringa S, rende una lista List<Integer> contenente tutti gli interi di M la cui corrispondente chiave sia inferiore o uguale a S
+
+[MEDIO]
+
+Scrivere un programma che, data una mappa M1 di tipo TreeMap<String, Integer> priva di valori ripetuti rende una nuova mappa M2 di tipo TreeMap<Integer, String> che contiene come chiavi i valori di M1 e come corrispondenti valori le corrispondenti chiavi di M1.

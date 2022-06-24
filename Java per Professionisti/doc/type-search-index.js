@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"settimana07.ereditarieta.e_02","l":"Prodotto"}];updateSearchResults();

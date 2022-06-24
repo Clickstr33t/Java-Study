@@ -1,0 +1,9 @@
+package n100.PongGame.Test;
+public class PongGame {
+
+	public static void main(String[] args) {
+		
+		new GameFrame();
+		
+	}
+}
